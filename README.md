@@ -4,7 +4,7 @@
 
 **Team:** Pandas and Chill (GROUP 2)
 **Project Phase:** Phase 4 - Advanced Machine Learning
-**Date:** February 2026
+**Date:** 04 February 2026
 
 ## Project Overview
 This project involves the development of a Collaborative Filtering Recommendation System for "CineStream," a fictional movie streaming platform. By analyzing over 100,000 ratings from the MovieLens dataset, we have built a model capable of generating personalized "Top-5" movie suggestions for users.
@@ -38,8 +38,9 @@ The project is implemented in **Python** using Jupyter Notebooks.
 
 1. **Clone the repository:**
     ```bash
-    git clone <repository-url>
-    cd movielens-recommendation
+    git clone <[repository-url](https://github.com/jaime8793/Pandas-and-chill-Movie-and-Recommendation-system)>
+    cd Pandas-and-chill-Movie-and-Recommendation-system
+
     ```
 
 2. **Install dependencies:**
@@ -70,5 +71,7 @@ This project follows the **Cross-Industry Standard Process for Data Mining (CRIS
 ## Contributors
 * **Pandas and Chill (Group 2)**
 
+## Tableu Link
+[Tableu Link](https://public.tableau.com/app/profile/amos.obaga/viz/MovieRecommendationSystem_17701542531500/Dashboard1?publish=yes)
+
 ---
-*Disclaimer: This project is for educational purposes as part of the Phase 4 Advanced Machine Learning curriculum.*
